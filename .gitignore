@@ -1,0 +1,8 @@
+bin/
+build/
+*.zip
+*.plist
+MakeFile
+*.xcconfig
+addons.make
+config.make
